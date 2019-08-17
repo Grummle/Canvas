@@ -52,7 +52,7 @@ namespace BlazorApp1
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapBlazorHub<App>(selector: "app");
+                endpoints.MapBlazorHub();//<App>(selector: "app");
                 endpoints.MapFallbackToPage("/_Host");
             });
         }

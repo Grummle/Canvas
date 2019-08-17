@@ -5,4 +5,9 @@
     <LangVersion>7.3</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\src\Blazor.Extensions.Canvas.JS\Blazor.Extensions.Canvas.JS.csproj" />
+    <ProjectReference Include="..\src\Blazor.Extensions.Canvas\Blazor.Extensions.Canvas.csproj" />
+  </ItemGroup>
+
 </Project>
