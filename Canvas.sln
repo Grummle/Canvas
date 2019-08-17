@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Extensions.Canvas", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Extensions.Canvas.Test.ServerSide", "test\Blazor.Extensions.Canvas.Test.ServerSide\Blazor.Extensions.Canvas.Test.ServerSide.csproj", "{D2242105-73D1-4F44-9A80-13D51B6B35FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{40E280BB-CFB4-43DB-99AB-C0D6642019B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,18 @@ Global
 		{D2242105-73D1-4F44-9A80-13D51B6B35FE}.Release|x64.Build.0 = Release|Any CPU
 		{D2242105-73D1-4F44-9A80-13D51B6B35FE}.Release|x86.ActiveCfg = Release|Any CPU
 		{D2242105-73D1-4F44-9A80-13D51B6B35FE}.Release|x86.Build.0 = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|x64.Build.0 = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|x64.Build.0 = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{40E280BB-CFB4-43DB-99AB-C0D6642019B0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
